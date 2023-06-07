@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713547640262",
+    "project_id": "fjob-1281e",
+    "storage_bucket": "fjob-1281e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713547640262:android:d02cad87ed505526c096c7",
+        "android_client_info": {
+          "package_name": "com.fjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713547640262-0erpvf01bfit5v75ckdv5i52nvomscft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDkLL-LGFKys2zNyCE7gdbA9vd8IcMS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713547640262-0erpvf01bfit5v75ckdv5i52nvomscft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
